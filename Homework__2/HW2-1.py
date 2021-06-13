@@ -12,3 +12,5 @@ for n, el, in enumerate(my_list):
     print("=" * 25)
     print(f'{n:2}', "element: ", el)
     print("type: ", type(el))
+
+# fictive comment (just for new pull-request)
