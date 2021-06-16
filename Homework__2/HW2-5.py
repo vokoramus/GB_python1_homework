@@ -42,3 +42,5 @@ while True:
             print(lst)
 
 # громоздко, но хотя бы работает... :)
+
+# fictive comment (just for new pull-request)

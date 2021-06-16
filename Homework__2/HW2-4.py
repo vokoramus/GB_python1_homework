@@ -10,3 +10,5 @@ for n, word in enumerate(word_list):
     if len(word) > 10:
         word = word[:10]
     print(f"{n + 1}: {word}")
+
+# fictive comment (just for new pull-request)

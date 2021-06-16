@@ -80,3 +80,5 @@ while True:
         for r in res.items():
             print(r)
         input("     ...... нажмите любую клавишу .......")
+
+# fictive comment (just for new pull-request)
