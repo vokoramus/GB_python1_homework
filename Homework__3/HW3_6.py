@@ -8,3 +8,7 @@ def int_func(word):
 
 if __name__ == "__main__":  # для возможности импорта в HW3_7.py
     print(int_func("abracadabra"))
+
+# TODO: добавить проверку на допустимые символы
+# if a <= symbol <= z:
+#     ...

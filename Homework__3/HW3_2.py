@@ -11,3 +11,7 @@ def user_data(name, surname, year, city, email, phone):
 
 print(user_data(name="Yuriy", surname="Sumarokov", year="1984", city="Saint-Petersburg", email="vokoramus01@ya.ru", phone="8-911-190-69-12",))
 
+# var 2
+# def rersonal_data(**kwargs):
+#     return " ".join(kwargs.values())
+
